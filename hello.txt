@@ -1,5 +1,13 @@
-Tester
+Hello World saja
 
-Conflict di Main Branch
+Update hello.txt
+Melakukan perubahan pada file
 
-Update Squash 1
+Update hello.txt
+Perbaikan dari pull sebelumnya
+
+Menambahkan deskripsi Squash 1
+
+Menambahkan perubahan deskripsi Squash 2
+
+Menambahkan deskripsi Squash 3
