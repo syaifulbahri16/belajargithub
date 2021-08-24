@@ -7,3 +7,5 @@ Update hello.txt
 Perbaikan dari pull sebelumnya
 
 Menambahkan deskripsi Squash 1
+
+Menambahkan perubahan deskripsi Squash 2
