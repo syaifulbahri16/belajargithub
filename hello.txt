@@ -2,3 +2,6 @@ Hello World saja
 
 Update hello.txt
 Melakukan perubahan pada file
+
+Update hello.txt
+Perbaikan dari pull sebelumnya
